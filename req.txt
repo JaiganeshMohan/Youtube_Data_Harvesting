@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+python
+google-api-python-client
+psycopg2
+pymongo
+bson
